@@ -1,5 +1,5 @@
 # 💫 About Me:
-21 year-old, born in Shiraz but living in Isfahan, English teaching student and coding lover.
+21, born in Shiraz but living in Isfahan, English teaching student and coding lover.
 
 
 ## 🌐 Socials:
