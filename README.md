@@ -1,5 +1,5 @@
 # 💫 About Me:
-21, born in Shiraz، living in Isfahan, English teaching student and coding lover.
+22, born in Shiraz، living in Isfahan, English teaching student and coding enthusiast.
 
 
 ## 🌐 Socials:
