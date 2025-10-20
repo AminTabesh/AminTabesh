@@ -11,6 +11,12 @@
   <br/><br/><br/>
 </div>
 
+<div align="left">
+  <a href="https://open.spotify.com/user/ttib1lfyfjml8wocvah3by9hz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ttib1lfyfjml8wocvah3by9hz&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amintabesham) 
