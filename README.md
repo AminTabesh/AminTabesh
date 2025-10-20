@@ -1,5 +1,16 @@
-# 💫 About Me:
-22, born in Shiraz، living in Isfahan, English teaching student and coding enthusiast.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ims0m1.ims0m1" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hi+There!+👋;+I'm+Saman!;" />
+</h1>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ims0m1/ims0m1/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/><br/>
+</div>
 
 
 ## 🌐 Socials:
